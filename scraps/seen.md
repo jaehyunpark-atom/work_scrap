@@ -1,0 +1,48 @@
+# 이미 발견한 채용공고 링크 목록
+
+이 파일에 있는 링크는 이후 스크랩에서 중복으로 간주되어 제외됩니다.
+
+## 2026-07-06
+- https://www.saramin.co.kr/zf_user/company-info/view-inner-recruit/csn/ekZ1a1grSWwrUjg0b1haVXpNRWtMZz09/company_nm/한국에스지에스(주)
+- https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=51876558
+- https://www.saramin.co.kr/zf_user/company-info/view-inner-recruit?csn=WlptU0dNclBrL253cjBzd3hOOWRVQT09
+- https://m.saramin.co.kr/job-search/company-info-view/recruit?csn=WGFNTEVDWXBpWDY5MDJEWDVuZ0VRUT09
+- https://www.saramin.co.kr/zf_user/company-info/view/csn/NzJpMjdrbzBVbE4xQmVHaEw5QVZFUT09/company_nm/유엘코리아(주)
+- https://www.saramin.co.kr/zf_user/company-info/view/csn/MmY4SUlLRHdzNXdNSTN1TEZFNTBTZz09/company_nm/한국인터텍테스팅서비스(주)
+- https://www.jobkorea.co.kr/Recruit/GI_Read/47585728
+- https://www.jobkorea.co.kr/Recruit/GI_Read/47149972
+- https://www.jobkorea.co.kr/Recruit/GI_Read/48344906
+- https://www.jobkorea.co.kr/Recruit/GI_Read/48174364
+- https://www.jobkorea.co.kr/Recruit/GI_Read/46868561
+- https://www.jobkorea.co.kr/Recruit/GI_Read/47114761
+- https://www.jobkorea.co.kr/Recruit/GI_Read/47999534
+- https://www.jobkorea.co.kr/Recruit/GI_Read/48134604
+- https://m.jobkorea.co.kr/Recruit/GI_Read/48676177
+- https://www.jobkorea.co.kr/Recruit/GI_Read/46635097
+- https://www.jobkorea.co.kr/Recruit/GI_Read/46473647
+- https://m.jobkorea.co.kr/company/43294148/recruit
+- https://www.jobkorea.co.kr/company/1891613/recruit
+- https://m.jobkorea.co.kr/Recruit/Co_Read/C/238163
+- https://www.wanted.co.kr/wd/293756
+- https://www.wanted.co.kr/wd/199653
+- https://www.wanted.co.kr/wd/171218
+- https://www.wanted.co.kr/wd/245900
+- https://www.wanted.co.kr/wd/190621
+- https://www.wanted.co.kr/wd/179570
+- https://www.wanted.co.kr/wd/256886
+- https://www.wanted.co.kr/wd/176953
+- https://www.wanted.co.kr/wd/99640
+- https://www.peoplenjob.com/jobs/6118511
+- https://www.peoplenjob.com/jobs/6203912
+- https://www.peoplenjob.com/jobs/6223895
+- https://www.peoplenjob.com/jobs/6146123
+- https://www.peoplenjob.com/jobs/5894987
+- https://www.peoplenjob.com/jobs/5853605
+- https://www.peoplenjob.com/jobs/5926068
+- https://www.peoplenjob.com/jobfairs/medical/jobs/5927226
+- https://www.peoplenjob.com/jobs/6003216
+- https://www.peoplenjob.com/jobs/5996711
+- https://kr.linkedin.com/jobs/view/ul-solutions-korea-talent-pool-at-ul-solutions-4267723577
+- https://kr.linkedin.com/jobs/view/화장품-규제-컨설턴트-regulatory-affairs-specialist-cosmetics-at-reach24h-3838167596
+- https://kr.linkedin.com/jobs/view/신입-연구직-배터리-시작개발-at-hyundai-mobis-4375295653
+- https://kr.linkedin.com/jobs/view/인턴-에너지-배터리-부문-at-p3-korea-4265090838
