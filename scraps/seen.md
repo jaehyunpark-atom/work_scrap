@@ -147,3 +147,13 @@
 - https://www.peoplenjob.com/jobs/5965201
 - https://www.peoplenjob.com/jobs/6197783
 - https://www.peoplenjob.com/jobs/5373936
+
+## 2026-07-23
+- https://www.peoplenjob.com/jobs/6230793
+- https://korea.ul.com/project-engineer-%EB%B0%A9%ED%8F%AD-%EC%95%88%EC%A0%84-%EC%9D%B8%EC%A6%9D-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4/
+- https://www.wanted.co.kr/wd/31242
+- https://www.peoplenjob.com/jobs/6101839
+- https://www.jobkorea.co.kr/Recruit/GI_Read/49073833
+- https://www.jobkorea.co.kr/Recruit/GI_Read/48673692
+- https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=53080580
+- https://www.peoplenjob.com/jobs/6102459
